@@ -1,2 +1,2 @@
 # Induction-program-
-Name= kunal saharan and branch=electrical engineering (EE)
+Name= kunal saharan branch=electrical engineering (EE)
